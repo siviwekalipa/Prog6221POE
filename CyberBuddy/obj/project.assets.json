@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CyberBuddy\\CyberBuddy\\CyberBuddy.csproj",
+      "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\CyberBuddy\\CyberBuddy\\CyberBuddy.csproj",
       "projectName": "CyberBuddy",
-      "projectPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CyberBuddy\\CyberBuddy\\CyberBuddy.csproj",
+      "projectPath": "C:\\Users\\lab_services_student\\Documents\\CyberBuddy\\CyberBuddy\\CyberBuddy.csproj",
       "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\CyberBuddy\\CyberBuddy\\obj\\",
+      "outputPath": "C:\\Users\\lab_services_student\\Documents\\CyberBuddy\\CyberBuddy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -6,17 +6,17 @@
         {
             string text = input.ToLowerInvariant();
 
-            if (ContainsAny(text, "how are you", "how r u", "how are u"))
+            if (ContainsAny(text, "how are you", "how are u"))
             {
-                return $"I am functioning well, {userName}. Thanks for asking!";
+                return $"I am functioning quite well, {userName}. Thank you for asking!";
             }
 
-            if (ContainsAny(text, "what is your purpose", "your purpose", "why are you here"))
+            if (ContainsAny(text, "what is your purpose", "your purpose", "purpose"))
             {
                 return "My purpose is to improve your cybersecurity awareness and help you stay safe online.";
             }
 
-            if (ContainsAny(text, "what can i ask", "help topics", "what do you do"))
+            if (ContainsAny(text, "what can i ask", "topics", "what do you do"))
             {
                 return "You can ask me about password safety, phishing, safe browsing, malware basics, and privacy tips.";
             }
